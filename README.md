@@ -38,10 +38,6 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-/Users/sedatakdogan/Desktop/tour-project.gif
-
 ## Objective
 
 Build a Tour Project App using ReactJS.

@@ -1,6 +1,4 @@
 
-
-
 const Card = (data) => {
     const {title, image, desc} = data;
     return (
